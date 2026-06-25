@@ -1,0 +1,12 @@
+adapter/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+models/
+venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
